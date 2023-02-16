@@ -1,0 +1,10 @@
+
+    .amazon{
+      color: rgb(26, 26, 166);
+      cursor: pointer;
+      font-family: Times New Roman;
+    }
+    .amazon:hover{
+      color: brown;
+    }
+  

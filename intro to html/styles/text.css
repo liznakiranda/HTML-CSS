@@ -1,0 +1,36 @@
+.video{
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  line-height: 30px;
+  margin-bottom: 20;
+}
+
+.stats{
+  font-family: Arial;
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.author{
+  font-family: Arial;
+  font-size: 14px;
+  color: gray;
+  margin-top: 20px;
+}
+
+.shop{
+  margin-top: 10px;
+  font-size: 14px;
+  font-family: Arial;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  cursor: pointer;
+}
